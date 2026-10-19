@@ -32,7 +32,7 @@ Los agentes de IA que programan tardan minutos, piden permiso y terminan cuando 
 
 <div align="center">
 
-[![Caspr en 30 segundos](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
+[![Caspr en 37 segundos](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
 
 <sub>Haz clic para ver el vídeo en máxima calidad (MP4).</sub>
 

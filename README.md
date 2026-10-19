@@ -32,7 +32,7 @@ AI coding agents run for minutes, ask for permission, and finish while you are i
 
 <div align="center">
 
-[![Caspr in 30 seconds](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
+[![Caspr in 37 seconds](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
 
 <sub>Click for the full-quality video (MP4).</sub>
 
