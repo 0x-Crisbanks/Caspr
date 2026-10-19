@@ -28,6 +28,18 @@ Los agentes de IA que programan tardan minutos, piden permiso y terminan cuando 
 
 <br />
 
+## Míralo en acción
+
+<div align="center">
+
+[![Caspr en 30 segundos](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
+
+<sub>Haz clic para ver el vídeo en máxima calidad (MP4).</sub>
+
+</div>
+
+<br />
+
 ## Claude Code, en vivo
 
 <img src="assets/card-claude.png" alt="Sesiones de Claude Code con feed en vivo en el notch" width="100%" />
@@ -71,6 +83,26 @@ También hay historial del portapapeles (solo en memoria), snippets, calendario,
 <div align="center">
 <img src="assets/notch-closed.png" alt="El notch cerrado con la portada, el fantasma de Caspr con sesiones activas y las barras de música" width="640" />
 </div>
+
+<br />
+
+## Capturas
+
+<p align="center"><img src="assets/screen-home.jpg" alt="Inicio: música y temporizador de foco para desarrolladores" width="86%" /><br /><sub>Inicio: música y temporizador de foco para desarrolladores</sub></p>
+
+<p align="center"><img src="assets/screen-list.jpg" alt="Todas tus sesiones de agentes" width="86%" /><br /><sub>Todas tus sesiones de agentes</sub></p>
+
+<p align="center"><img src="assets/screen-live.jpg" alt="Feed en vivo con diffs y comandos" width="86%" /><br /><sub>Feed en vivo con diffs y comandos</sub></p>
+
+<p align="center"><img src="assets/screen-perm.jpg" alt="Aprueba permisos desde el notch" width="86%" /><br /><sub>Aprueba permisos desde el notch</sub></p>
+
+<p align="center"><img src="assets/screen-cursor.jpg" alt="Cursor, en vivo en el mismo notch" width="86%" /><br /><sub>Cursor, en vivo en el mismo notch</sub></p>
+
+<p align="center"><img src="assets/screen-tray.jpg" alt="Bandeja de archivos y AirDrop" width="86%" /><br /><sub>Bandeja de archivos y AirDrop</sub></p>
+
+<p align="center"><img src="assets/screen-timer.jpg" alt="Temporizadores y Pomodoro" width="86%" /><br /><sub>Temporizadores y Pomodoro</sub></p>
+
+<p align="center"><img src="assets/screen-closed.jpg" alt="El notch cerrado se adapta a lo que pasa" width="60%" /><br /><sub>El notch cerrado se adapta a lo que pasa</sub></p>
 
 <br />
 
