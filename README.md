@@ -28,6 +28,18 @@ AI coding agents run for minutes, ask for permission, and finish while you are i
 
 <br />
 
+## See it in action
+
+<div align="center">
+
+[![Caspr in 30 seconds](assets/caspr-promo.gif)](assets/caspr-promo.mp4)
+
+<sub>Click for the full-quality video (MP4).</sub>
+
+</div>
+
+<br />
+
 ## Claude Code, live
 
 <img src="assets/card-claude.png" alt="Claude Code sessions with a live feed in the notch" width="100%" />
@@ -71,6 +83,26 @@ There is also a clipboard history (memory only), snippets, calendar, app launche
 <div align="center">
 <img src="assets/notch-closed.png" alt="The closed notch showing album art, the Caspr ghost with active sessions, and music bars" width="640" />
 </div>
+
+<br />
+
+## Screenshots
+
+<p align="center"><img src="assets/screen-home.jpg" alt="Home: music and developer focus timer" width="86%" /><br /><sub>Home: music and developer focus timer</sub></p>
+
+<p align="center"><img src="assets/screen-list.jpg" alt="All your agent sessions" width="86%" /><br /><sub>All your agent sessions</sub></p>
+
+<p align="center"><img src="assets/screen-live.jpg" alt="Live feed with diffs and commands" width="86%" /><br /><sub>Live feed with diffs and commands</sub></p>
+
+<p align="center"><img src="assets/screen-perm.jpg" alt="Approve permissions from the notch" width="86%" /><br /><sub>Approve permissions from the notch</sub></p>
+
+<p align="center"><img src="assets/screen-cursor.jpg" alt="Cursor, live in the same notch" width="86%" /><br /><sub>Cursor, live in the same notch</sub></p>
+
+<p align="center"><img src="assets/screen-tray.jpg" alt="File tray and AirDrop" width="86%" /><br /><sub>File tray and AirDrop</sub></p>
+
+<p align="center"><img src="assets/screen-timer.jpg" alt="Timers and Pomodoro" width="86%" /><br /><sub>Timers and Pomodoro</sub></p>
+
+<p align="center"><img src="assets/screen-closed.jpg" alt="The closed notch adapts to what is happening" width="60%" /><br /><sub>The closed notch adapts to what is happening</sub></p>
 
 <br />
 
